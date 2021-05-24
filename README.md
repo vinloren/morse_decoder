@@ -11,4 +11,7 @@ The program can be tested in each speed byu sing the enclosed test .wav files. T
 
 The source code is fairly self explainatory so I don't think it deserves further clarifications.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b6736a9ee7bff2dce68a8e28e7f247655d58d2da
