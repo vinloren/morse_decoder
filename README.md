@@ -10,8 +10,3 @@ This arduino sketch allows the selection of 3 different speeds you can choose be
 The program can be tested in each speed byu sing the enclosed test .wav files. There is also a test file at 33wpm: it actually works fine with 40wpm set. The RTTY_ESP32.pdf file herewith enclosed shows the hw schematic I built which is common to morse or either rtty decoder.
 
 The source code is fairly self explainatory so I don't think it deserves further clarifications.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> b6736a9ee7bff2dce68a8e28e7f247655d58d2da
